@@ -1,0 +1,6 @@
+Firstly you need to change some setting to your email account.
+
+step 1. Go to your google account then click security.
+step 2. scroll down go to Less secure app access then turn ON access.
+
+Now account is ready to recived messages.
